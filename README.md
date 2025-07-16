@@ -55,7 +55,7 @@
 
 ---
 
-### 🔍 Why these?
+###  Why these?
 
 * Carefully chosen **Medium** challenges with meaningful use of **arrays, sorting, two-pointers, sliding windows, binary search, prefix sums** and other essential patterns.
 * Builds on your Easy foundation, helping you **level up in problem-solving**.
@@ -63,7 +63,7 @@
 
 ---
 
-### 🚀 Next Steps:
+###  Next Steps:
 
 1. Tackle **5–10 problems per week**.
 2. Focus on **understanding patterns**, not just solving.
