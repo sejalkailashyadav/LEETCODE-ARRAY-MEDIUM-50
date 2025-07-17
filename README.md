@@ -62,7 +62,7 @@
 * Great variety—some are classic (like 3Sum, Subarray Sum Equals K, Merge Intervals), others add new twists.
 
 ---
-
+========
 ###  Next Steps:
 
 1. Tackle **5–10 problems per week**.
