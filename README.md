@@ -58,7 +58,7 @@
 ###  Why these?
 
 * Carefully chosen **Medium** challenges with meaningful use of **arrays, sorting, two-pointers, sliding windows, binary search, prefix sums** and other essential patterns.
-* Builds on your Easy foundation, helping you **level up in problem-solving**.
+* Builds on your Easy foundation, helping you **level up in problem-solving**....
 * Great variety—some are classic (like 3Sum, Subarray Sum Equals K, Merge Intervals), others add new twists.
 
 ---
